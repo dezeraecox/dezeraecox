@@ -13,23 +13,23 @@ For a detailed list of my publications, you can find my full CV [here](https://d
 <p align='center'>
 <a href="https://github.com/dezeraecox-manuscripts/SUI_Proteome-solubility">
     <img alt="proteome_solubility" src="images/paper_1.png"
-    width=150px>
+    >
 </a>
 <a href="https://github.com/dezeraecox-manuscripts/ORMSBY_Htt-inclusion-characterisation">
     <img alt="inclusion-characterisation" src="images/paper_2.png"
-    width=150px>
+    >
 </a>
 <a href="https://github.com/dezeraecox-manuscripts/COX_Proteome-stability">
     <img alt="proteome-stability" src="images/paper_3.png"
-    width=150px>
+    >
 </a>
 <a href="https://github.com/dezeraecox-manuscripts/RAEBURN_Nuclear-versus-cytoplasmic-proteostasis">
     <img alt="organellar-proteostasis" src="images/paper_4.png"
-    width=150px>
+    >
 </a>
 <a href="https://github.com/ocarmo/EMP1-trafficking_PTP7-analysis">
     <img alt="malaria-virulence" src="images/paper_5.png"
-    width=150px>
+    >
 </a>
 </p>
 
@@ -41,17 +41,17 @@ Outside serious science stories, I love the challenge of bringing data explorati
 <p align='center'>
 <a href="https://github.com/dezeraecox/time-series-labelling-app">
     <img alt="tsla" src="images/tsla.png"
-    width=250px>
+    >
 </a>
 
 <a href="https://github.com/dezeraecox/student-metrics-analysis-platform">
     <img alt="pears" src="images/pears.png"
-    width=250px>
+    >
 </a>
 
 <a href="https://github.com/dezeraecox/Investigator-Grants-2020">
     <img alt="investigators" src="images/investigators.png"
-    width=250px>
+    >
 </a>
 </p>
 
@@ -63,25 +63,25 @@ As the lines between biology and big data blur, researchers are having to find e
 <p align='center'>
 <a href="https://github.com/dezeraecox-experiments/experiment">
     <img alt="experiment" src="images/experiment.png"
-    width=187.5px>
+    .5px>
 </a>
 
 
 <a href="https://github.com/dezeraecox-experiments/analysis">
     <img alt="analysis" src="images/analysis.png"
-    width=187.5px>
+    .5px>
 </a>
 
 
 <a href="https://github.com/dezeraecox-manuscripts/manuscript_writing">
     <img alt="manuscript_writing" src="images/manuscript_writing.png"
-    width=187.5px>
+    .5px>
 </a>
 
 
 <a href="https://github.com/dezeraecox-manuscripts/manuscript_public">
     <img alt="manuscript_writing" src="images/manuscripts_publishing.png"
-    width=187.5px>
+    .5px>
 </a>
 </p>
 
