@@ -13,13 +13,9 @@ For a detailed list of my publications, you can find my full CV [here](https://d
 | Project | Full Text | Code Repository|
 |---|---|---|
 |Widespread remodeling of proteome solubility in response to different protein homeostasis stresses| [Manuscript](https://www.pnas.org/content/117/5/2422) | [Code](https://github.com/dezeraecox-manuscripts/SUI_Proteome-solubility)
-
 Nascent mutant Huntingtin exon 1 chains do not stall on ribosomes during translation but aggregates do recruit machinery involved in ribosome quality control and RNA | [Manuscript](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233583) | [Code](https://github.com/dezeraecox-manuscripts/ORMSBY_Htt-inclusion-characterisation)
-
 Hidden information on protein function in censuses of proteome foldedness | [Manuscript](https://www.biorxiv.org/content/10.1101/2021.02.24.432609v1) | [Code](https://github.com/dezeraecox-manuscripts/COX_Proteome-stability)
-
 A biosensor to gauge protein homeostasis resilience differences in the nucleus compared to cytosol of mammalian cells | [Manuscript](https://www.biorxiv.org/content/10.1101/2021.04.19.440383v1.full) | [Code](https://github.com/dezeraecox-manuscripts/RAEBURN_Nuclear-versus-cytoplasmic-proteostasis)
-
 Virulence determinant, PTP7, controls vesicle budding from the Maurer’s clefts, adhesin protein trafficking and host cell remodeling in Plasmodium falciparum | [Manuscript](https://www.biorxiv.org/content/10.1101/2021.08.12.456062v1) | [Code](https://github.com/ocarmo/EMP1-trafficking_PTP7-analysis)
 
 
