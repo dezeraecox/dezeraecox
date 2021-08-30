@@ -36,7 +36,7 @@ For a detailed list of my publications, you can find my full CV [here](https://d
 ### [Community projects](README_complete.md/#community-projects)
 
 
-Outside serious science stories, I love the challenge of bringing data exploration and visualisation to new contexts using my amateur coding skills.
+Outside serious science stories, I love the challenge of bringing data exploration and visualisation to new arenas using my amateur coding skills.
 
 <p align='center'>
 <a href="https://github.com/dezeraecox/time-series-labelling-app">
